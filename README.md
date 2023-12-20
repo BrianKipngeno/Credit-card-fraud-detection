@@ -1,6 +1,6 @@
 # Credit-card-fraud-detection
 
-This repository contains a colab notebook of a project on credit card fraud detection using logistic regression. The dataset from kaggle is highly imbalanced and SMOTE is implemented to deal with the class imbalance.
+This repository contains a colab notebook of a project on the analysis of transactions done by a bank and application of logistic regression to identfiy the fraudulent transactions. The dataset from kaggle is highly imbalanced and SMOTE is implemented to deal with the class imbalance.
 
 ![](https://forthebadge.com/images/badges/check-it-out.svg)
 
